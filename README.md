@@ -14,6 +14,6 @@ Este documento apresenta os fundamentos teóricos e técnicos para o desenvolvim
 
 > [!Note]
 > ## FAQ
-> [Documentação do projeto]()
+> [Documentação do projeto](https://github.com/Sommellier/CatolicaSC-Portfolio/wiki)
 
 
